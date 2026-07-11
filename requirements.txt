@@ -2,5 +2,5 @@ streamlit
 pandas
 plotly
 geopy
-fpdf
+fpdf2
 requests
