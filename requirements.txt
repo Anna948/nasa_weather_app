@@ -1,6 +1,8 @@
-streamlit
-pandas
-plotly
-geopy
-fpdf2
-requests
+streamlit==1.59.1
+pandas==3.0.3
+numpy==2.5.1
+pyarrow==25.0.0
+plotly==6.9.0
+geopy==2.4.1
+fpdf2==2.8.7
+requests==2.34.2
